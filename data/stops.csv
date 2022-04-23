@@ -1,0 +1,3236 @@
+stop_index,stop_name
+0,Boleticka
+1,Boleticka
+2,Bretislavka
+3,Bretislavka
+4,Arbesovo namesti
+5,Arbesovo namesti
+6,Arbesovo namesti
+7,Arbesovo namesti
+8,Nove Vokovice
+9,Nove Vokovice
+10,Dolnokreslicka
+11,Dolnokreslicka
+12,Nasirovo namesti
+13,Nasirovo namesti
+14,Balabenka
+15,Balabenka
+16,Balabenka
+17,Balabenka
+18,Balabenka
+19,Balkan
+20,Balkan
+21,Bane
+22,Bane
+23,Baterie
+24,Baterie
+25,Leharova
+26,Leharova
+27,Bazar
+28,Bazar
+29,Belarie
+30,Belarie
+31,Kralovsky letohradek
+32,Kralovsky letohradek
+33,Sidliste Letnany
+34,Sidliste Letnany
+35,K Lipanum
+36,K Lipanum
+37,Benkova
+38,Benkova
+39,Na Beranku
+40,Na Beranku
+41,Bertramka
+42,Bertramka
+43,Betonarka
+44,Betonarka
+45,Sidliste Jinonice
+46,Sidliste Jinonice
+47,Bechovice
+48,Bechovice
+49,Bechovice
+50,Bechovice
+51,Belocerkevska
+52,Belocerkevska
+53,Belocerkevska
+54,Sidliste Horni Pocernice
+55,Sidliste Horni Pocernice
+56,Bila Hora
+57,Bila Hora
+58,Bila Hora
+59,Bila Hora
+60,Bila Hora
+61,Bila Hora
+62,Bila Hora
+63,Bila Hora
+64,Bila labut
+65,Bila labut
+66,Bily Beranek
+67,Bily Beranek
+68,Biskupcova
+69,Biskupcova
+70,Biskupcova
+71,Biskupcova
+72,Blatnicka
+73,Blatnicka
+74,Blatov
+75,Blatov
+76,Bohdalec
+77,Bohdalec
+78,Stare Bohnice
+79,Stare Bohnice
+80,Bojasova
+81,Bojasova
+82,Na Piskach
+83,Na Piskach
+84,Botanicka zahrada
+85,Botanicka zahrada
+86,Brechtova
+87,Brechtova
+88,Brevnovska
+89,Brevnovska
+90,Bruselska
+91,Bruselska
+92,Brusnice
+93,Brusnice
+94,Blatiny
+95,Blatiny
+96,Blatiny
+97,Blatiny
+98,Argentinska
+99,Argentinska
+100,Argentinska
+101,Geologicka
+102,Geologicka
+103,Geologicka
+104,Geologicka
+105,Geologicka
+106,Budejovicka
+107,Budejovicka
+108,Poliklinika Budejovicka
+109,Poliklinika Budejovicka
+110,Budejovicka
+111,Budejovicka
+112,Poliklinika Budejovicka
+113,Budejovicka
+114,Budejovicka
+115,Budejovicka
+116,Sportareal Satalice
+117,Sportareal Satalice
+118,Chodov
+119,Chodov
+120,Chodov
+121,Chodov
+122,Chodov
+123,Budovec
+124,Budovec
+125,Bulovka
+126,Bulovka
+127,Bulovka
+128,Bulovka
+129,Bulovka
+130,Bulovka
+131,Simunkova
+132,Simunkova
+133,Simunkova
+134,Kuliska
+135,Kuliska
+136,Cementarna Radotin
+137,Cementarna Radotin
+138,Nadrazi Cibulka
+139,Nadrazi Cibulka
+140,Cikanka
+141,Cikanka
+142,Cilkova
+143,Cilkova
+144,Ciolkovskeho
+145,Ciolkovskeho
+146,Cukrovar Modrany
+147,Cukrovar Modrany
+148,Cukrovar Cakovice
+149,Cukrovar Cakovice
+150,Cakovice
+151,Cakovice
+152,Cakovice
+153,Cakovice
+154,Cakovicka
+155,Cakovicka
+156,Cechova skola
+157,Cechova skola
+158,Cechovo namesti
+159,Cechovo namesti
+160,Cechovo namesti
+161,Cechuv most
+162,Cechuv most
+163,Cerninova
+164,Cerninova
+165,Nove Strasnice
+166,Nove Strasnice
+167,Nove Strasnice
+168,Nove Strasnice
+169,Nove Strasnice
+170,Nove Strasnice
+171,Cerny kun
+172,Cerny kun
+173,Cerny kun
+174,Cerny kun
+175,Cerny kun
+176,Cerny kun
+177,Lehovec
+178,Lehovec
+179,Lehovec
+180,Lehovec
+181,Lehovec
+182,Cerveny Vrch
+183,Cerveny Vrch
+184,Cimice
+185,Cimice
+186,Kolbenova
+187,Kolbenova
+188,Kolbenova
+189,Kolbenova
+190,Modranska skola
+191,Modranska skola
+192,Modranska skola
+193,Modranska skola
+194,Ladvi
+195,Ladvi
+196,Ladvi
+197,Ladvi
+198,Ladvi
+199,Ladvi
+200,Depo Kacerov
+201,Depo Kacerov
+202,Dedina
+203,Dedina
+204,Delnicka
+205,Delnicka
+206,Tusarova
+207,Bilenecke namesti
+208,Bilenecke namesti
+209,Divadlo Na Fidlovacce
+210,Divadlo Na Fidlovacce
+211,Divci hrady
+212,Divci hrady
+213,Divci hrady
+214,Divoka Sarka
+215,Divoka Sarka
+216,Divoka Sarka
+217,Divoka Sarka
+218,Divoka Sarka
+219,Divoka Sarka
+220,Divoka Sarka
+221,Dlouha trida
+222,Dlouha trida
+223,Dobeska
+224,Dobeska
+225,Dobraticka
+226,Dobraticka
+227,Dobrocovicka
+228,Dobrocovicka
+229,Dobronicka
+230,Dobronicka
+231,Prunerovska
+232,Prunerovska
+233,Dolni Chabry
+234,Dolni Chabry
+235,Osecka
+236,Osecka
+237,Dolnomecholupska
+238,U Strediska
+239,U Strediska
+240,Dolni Pocernice
+241,Dolni Pocernice
+242,Dolni Pocernice
+243,Doliny
+244,Doliny
+245,Donovalska
+246,Donovalska
+247,Vltavska
+248,Vltavska
+249,Vltavska
+250,Vltavska
+251,Bubenska
+252,Vltavska
+253,Vltavska
+254,Dostihova
+255,Dostihova
+256,Drinopol
+257,Drinopol
+258,Jiviny
+259,Jiviny
+260,Druhanicka
+261,Opatov
+262,Opatov
+263,Opatov
+264,Opatov
+265,Opatov
+266,Opatov
+267,Skola Dubec
+268,Skola Dubec
+269,Dubecek
+270,Dubecek
+271,Dustojnicke domy
+272,Dustojnicke domy
+273,Dvorce
+274,Dvorce
+275,Dvorce
+276,Dvorce
+277,Dvorce
+278,Dvorce
+279,Vyhledske namesti
+280,Vyhledske namesti
+281,Dyrinka
+282,Dyrinka
+283,Hlusickova
+284,Hlusickova
+285,Hlusickova
+286,Hlusickova
+287,Krystalova
+288,Krystalova
+289,Nadrazi Holesovice
+290,Nadrazi Holesovice
+291,Nadrazi Holesovice
+292,Nadrazi Holesovice
+293,Nadrazi Holesovice
+294,Nadrazi Holesovice
+295,Nadrazi Holesovice
+296,Nadrazi Holesovice
+297,Nadrazi Holesovice
+298,Nadrazi Holesovice
+299,Nadrazi Holesovice
+300,Farkan
+301,Farkan
+302,Filmove ateliery Barrandov
+303,Filmove ateliery Barrandov
+304,Filmove ateliery Barrandov
+305,Flora
+306,Flora
+307,Flora
+308,Flora
+309,Flora
+310,Flora
+311,Francikova
+312,Francikova
+313,Franty Kocourka
+314,Namesti U Lva
+315,Namesti U Lva
+316,Fruta
+317,Fruta
+318,Filosofska
+319,Filosofska
+320,Frycovicka
+321,Frycovicka
+322,Nadrazi Podbaba
+323,Nadrazi Podbaba
+324,Nadrazi Podbaba
+325,Na Stare ceste
+326,Na Stare ceste
+327,Habrova
+328,Habrova
+329,Habrova
+330,Hadovita
+331,Hadovita
+332,Hadovka
+333,Hadovka
+334,Hajek
+335,Hajek
+336,Hajova
+337,Hajova
+338,Hanspaulka
+339,Hanspaulka
+340,Nadrazi Liben
+341,Nadrazi Liben
+342,Nadrazi Liben
+343,Nadrazi Liben
+344,Nadrazi Liben
+345,Hloubetin
+346,Hloubetin
+347,Hloubetin
+348,Hloubetin
+349,Hloubetin
+350,Hloubetin
+351,Hloubetin
+352,Hloubetin
+353,Lnarska
+354,Lnarska
+355,Hejtmanska
+356,Hejtmanska
+357,Hellichova
+358,Hellichova
+359,Hercovka
+360,Hercovka
+361,Hladkov
+362,Hladkov
+363,Hladkov
+364,Hladkov
+365,Hlavni
+366,Hlavni
+367,Hlavni
+368,Hlavni nadrazi
+369,Hlavni nadrazi
+370,Hlavni nadrazi
+371,Hlavni nadrazi
+372,Hlavni nadrazi
+373,Hlavni nadrazi
+374,Hlohova
+375,Hlohova
+376,Stary Hloubetin
+377,Stary Hloubetin
+378,Stary Hloubetin
+379,Stary Hloubetin
+380,Mladejovska
+381,Mladejovska
+382,Nadrazi Hlubocepy
+383,Nadrazi Hlubocepy
+384,Hlubocepy
+385,Hlubocepy
+386,Hlubocepy
+387,Hlubocepy
+388,Hlubocepy
+389,Hlubocepy
+390,Holeckova
+391,Holeckova
+392,Stara Holyne
+393,Stara Holyne
+394,Weberova
+395,Weberova
+396,Horcickova
+397,Horcickova
+398,Horky
+399,Horky
+400,Horni cesta
+401,Bolonska
+402,Bolonska
+403,Bolonska
+404,Bolonska
+405,Pruchova
+406,Pruchova
+407,Borislavka
+408,Borislavka
+409,Borislavka
+410,Borislavka
+411,Borislavka
+412,Borislavka
+413,Borislavka
+414,Hostavice
+415,Hostavice
+416,Benice
+417,Benice
+418,Hostivarske namesti
+419,Hostivarske namesti
+420,Hostynska
+421,Hostynska
+422,Cinska
+423,Cinska
+424,Hradcanska
+425,Hradcanska
+426,Hradcanska
+427,Hradcanska
+428,Hradcanska
+429,Hradcanska
+430,Hradcanska
+431,Hradcanska
+432,Hrncirsky hrbitov
+433,Hrncirsky hrbitov
+434,Toulcuv dvur
+435,Toulcuv dvur
+436,Dablicky hrbitov
+437,Dablicky hrbitov
+438,Hrebenka
+439,Hrebenka
+440,Hribkova
+441,Hribkova
+442,Hulicka
+443,Hulicka
+444,Hulicka
+445,Letecke muzeum
+446,Letecke muzeum
+447,Viktoria Zizkov
+448,Viktoria Zizkov
+449,Viktoria Zizkov
+450,Viktoria Zizkov
+451,Hute
+452,Hute
+453,Hutmanka
+454,Hutmanka
+455,Nadrazi Jinonice
+456,Nadrazi Jinonice
+457,Hybsmanka
+458,Hybsmanka
+459,Vyzkumny ustav vodohospodarsky
+460,Vyzkumny ustav vodohospodarsky
+461,Sidliste Zlicin
+462,Sidliste Zlicin
+463,Vinorsky hrbitov
+464,Vinorsky hrbitov
+465,Vinorsky hrbitov
+466,Vinorsky hrbitov
+467,Chmelnice
+468,Chmelnice
+469,Chodovec
+470,Chodovec
+471,Na Petynce
+472,Na Petynce
+473,Chodovska
+474,Chodovska
+475,Chodovska
+476,Chodovska
+477,Skola Radlice
+478,Skola Radlice
+479,Skola Radlice
+480,Skola Radlice
+481,Skola Radlice
+482,Skola Radlice
+483,Tocna
+484,Tocna
+485,Chotkovy sady
+486,Chotkovy sady
+487,Chvaly
+488,Chvaly
+489,Kavkazska
+490,Kavkazska
+491,I. P. Pavlova
+492,I. P. Pavlova
+493,I. P. Pavlova
+494,I. P. Pavlova
+495,I. P. Pavlova
+496,I. P. Pavlova
+497,I. P. Pavlova
+498,I. P. Pavlova
+499,I. P. Pavlova
+500,Italska
+501,Italska
+502,Poliklinika Zahradni Mesto
+503,Poliklinika Zahradni Mesto
+504,Jahodnice
+505,Jahodnice
+506,Jalodvorska
+507,Jalodvorska
+508,Presticka
+509,Presticka
+510,Jankovcova
+511,Jankovcova
+512,Korytna
+513,Korytna
+514,Jeneralka
+515,Jeneralka
+516,Jericka
+517,Jericka
+518,Jezerka
+519,Jezerka
+520,Bakovska
+521,Bakovska
+522,Bakovska
+523,Bakovska
+524,Jindrisska
+525,Jindrisska
+526,Stara Stodulecka
+527,Stara Stodulecka
+528,Jinonicka
+529,Jiraskova ctvrt
+530,Jiraskova ctvrt
+531,Kyjsky hrbitov
+532,Kyjsky hrbitov
+533,Jiraskovo namesti
+534,Jiraskovo namesti
+535,Jiraskovo namesti
+536,Jiraskovo namesti
+537,Jiriho z Podebrad
+538,Jiriho z Podebrad
+539,Jiriho z Podebrad
+540,Jiriho z Podebrad
+541,Jiriho z Podebrad
+542,Jiriho z Podebrad
+543,Jizni Mesto
+544,Jizni Mesto
+545,Nad Zavisti
+546,Jordanska
+547,Juliska
+548,Juliska
+549,K Cikance
+550,K Cikance
+551,K Dubecku
+552,K Dubecku
+553,K Holyni
+554,K Holyni
+555,K Letisti
+556,K Letisti
+557,K Obecnim hajovnam
+558,K Obecnim hajovnam
+559,K Pitkovickam
+560,K Pitkovickam
+561,Karlovy lazne
+562,K Teplarne
+563,K Teplarne
+564,K Tuchomericum
+565,K Tuchomericum
+566,K Zizkovu
+567,K Zizkovu
+568,Myslinska
+569,Myslinska
+570,Myslinska
+571,Kablo
+572,Kablo
+573,Kablo
+574,Kablo
+575,Kacerov
+576,Kacerov
+577,Kacerov
+578,Kacerov
+579,Kacerov
+580,Kacerov
+581,Kacerov
+582,Kajetanka
+583,Kajetanka
+584,Kalinuv mlyn
+585,Kalinuv mlyn
+586,Kamenicka
+587,Kamenicka
+588,Kamycka
+589,Kamycka
+590,Kamycka
+591,Kamycka
+592,Karenova
+593,Slanska
+594,Slanska
+595,Slanska
+596,Slanska
+597,Karlovo namesti
+598,Karlovo namesti
+599,Karlovo namesti
+600,Moran
+601,Palackeho namesti
+602,Palackeho namesti
+603,Palackeho namesti (nabrezi)
+604,Palackeho namesti (nabrezi)
+605,Karlovo namesti
+606,Karlovo namesti
+607,Novomestska radnice
+608,Vaclavska
+609,Karlovo namesti
+610,Karlovo namesti
+611,Karlstejnska
+612,Karlstejnska
+613,Katerinky
+614,Katerinky
+615,Kavalirka
+616,Kavalirka
+617,Kavalirka
+618,Kavalirka
+619,Kavalirka
+620,Kazanka
+621,Kazanka
+622,Kbelska
+623,Kbelska
+624,Kbelska
+625,Kbelska
+626,Kbely
+627,Kbely
+628,Kbely
+629,Kbely
+630,Kbely
+631,Kbely
+632,Kbely
+633,Kbely
+634,Ke Kamence
+635,Ke Kamence
+636,Branicke namesti
+637,Branicke namesti
+638,Ke Schodum
+639,Ke Smrcine
+640,Ke Smrcine
+641,Ke Stadionu
+642,Ke Stadionu
+643,Ke Stirce
+644,Ke Stirce
+645,Kelerka
+646,Kelerka
+647,Kesnerka
+648,Khodlova
+649,Klamovka
+650,Klamovka
+651,Klamovka
+652,Klamovka
+653,Klamovka
+654,Klamovka
+655,Klanova
+656,Klanova
+657,Klanovice
+658,Klanovice
+659,Klaruv ustav
+660,Klaruv ustav
+661,Luziny
+662,Luziny
+663,Klicov
+664,Klicov
+665,Klicovska
+666,Klicovska
+667,Klikovka
+668,Klikovka
+669,Korunovacni
+670,Korunovacni
+671,Korunovacni
+672,Kloboucnicka
+673,Kloboucnicka
+674,Kloboucnicka
+675,Kloboucnicka
+676,Kloboucnicka
+677,Klukovice
+678,Klukovice
+679,Brumlovka
+680,Brumlovka
+681,Knezska luka
+682,Knezska luka
+683,Knezska luka
+684,Knezska luka
+685,Sluzska
+686,Sluzska
+687,Kodanska
+688,Koh-i-noor
+689,Koh-i-noor
+690,Koh-i-noor
+691,Koh-i-noor
+692,Kokorinska
+693,Kokorinska
+694,Koleje Jizni Mesto
+695,Koleje Jizni Mesto
+696,Divadlo pod Palmovkou
+697,Koleje Vetrnik
+698,Kolodeje
+699,Kolodeje
+700,Kolodejska obora
+701,Kolodejska obora
+702,Kolonie
+703,Kolonie
+704,Skola Kolovraty
+705,Skola Kolovraty
+706,Zdimericka
+707,Zdimericka
+708,Komarovska
+709,Komarovska
+710,Komorany
+711,Komorany
+712,Komorany
+713,Bavorska
+714,Bavorska
+715,Bavorska
+716,Bavorska
+717,Konvarka
+718,Nad Dzbanem
+719,Nad Dzbanem
+720,Nad Dzbanem
+721,Nad Dzbanem
+722,Korandova
+723,Korandova
+724,Korek
+725,Korek
+726,Haje
+727,Haje
+728,Haje
+729,Haje
+730,Haje
+731,Haje
+732,Haje
+733,Dablice
+734,Dablice
+735,Dablice
+736,Dablice
+737,Kostrounek
+738,Kostrounek
+739,Kotlarka
+740,Kotlarka
+741,Kotlarka
+742,Kotlarka
+743,Kotlarka
+744,Kotlarka
+745,Kotlarka
+746,Kotlarka
+747,Kovarna
+748,Kovarna
+749,Libechovska
+750,Libechovska
+751,Kovosrot
+752,Kovosrot
+753,Kralova
+754,Kralova
+755,Kralova
+756,Kralovice
+757,Kralovice
+758,Krcska
+759,Krcska
+760,Krcsky hrbitov
+761,Krcsky hrbitov
+762,Krematorium Strasnice
+763,Krematorium Strasnice
+764,Krocinka
+765,Krocinka
+766,Krymska
+767,Krymska
+768,Krizova
+769,Krizova
+770,Krizova
+771,Krizova
+772,Kublov
+773,Kublov
+774,Ovci hajek
+775,Ovci hajek
+776,Kuchynka
+777,Kuchynka
+778,Nemocnice Motol
+779,Nemocnice Motol
+780,Nemocnice Motol
+781,Nemocnice Motol
+782,Na Proutcich
+783,Na Proutcich
+784,Divadlo Gong
+785,Divadlo Gong
+786,Kunratice
+787,Kunratice
+788,Kutnohorska
+789,Kvasinska
+790,Kvasinska
+791,Kvasinska
+792,Kvetnova
+793,Kvetnova
+794,Kyje
+795,Kyje
+796,Kyselova
+797,Kyselova
+798,Lahovice
+799,Lahovice
+800,Lahovicky most
+801,Lahovicky
+802,Lahovicky
+803,Sidliste Jahodnice
+804,Sidliste Jahodnice
+805,Laurova
+806,Laurova
+807,Laurova
+808,Laurova
+809,Laurova
+810,Laurova
+811,Zentiva
+812,Zentiva
+813,Dejvicka
+814,Dejvicka
+815,Vitezne namesti
+816,Vitezne namesti
+817,Dejvicka
+818,Dejvicka
+819,Dejvicka
+820,Dejvicka
+821,Dejvicka
+822,Vitezne namesti
+823,Vitezne namesti
+824,Dejvicka
+825,Dejvicka
+826,Lesanska
+827,Lesanska
+828,Lesanska
+829,Sportovni centrum Kbely
+830,Sportovni centrum Kbely
+831,Letenske namesti
+832,Letenske namesti
+833,Rychnovska
+834,Rychnovska
+835,Stare Letnany
+836,Stare Letnany
+837,Touzimska
+838,Touzimska
+839,Lhotecky les
+840,Lhotecky les
+841,Lhotka
+842,Lhotka
+843,Libenska
+844,Libenska
+845,Libensky most
+846,Libensky most
+847,Strizkov
+848,Strizkov
+849,Strizkov
+850,Strizkov
+851,Strizkov
+852,Strizkov
+853,Libeznicka
+854,Libeznicka
+855,Libocka
+856,Libocka
+857,Libus
+858,Libus
+859,Nove namesti
+860,Nove namesti
+861,Nove namesti
+862,Nove namesti
+863,Lihovar
+864,Lihovar
+865,Lihovar
+866,Lihovar
+867,Lihovar
+868,Jakobiho
+869,Jakobiho
+870,Lipanska
+871,Lipanska
+872,Lipany
+873,Lipany
+874,Skola Lipence
+875,Skola Lipence
+876,Lipnicka
+877,Lipnicka
+878,Lisek
+879,Lisek
+880,Litochlebske namesti
+881,Litochlebske namesti
+882,Litochlebske namesti
+883,Litochlebske namesti
+884,Katovicka
+885,Katovicka
+886,Lohenicka
+887,Lohenicka
+888,Lochkov
+889,Lochkov
+890,Multiarena Praha
+891,Multiarena Praha
+892,Lomnicka
+893,Lomnicka
+894,Lotysska
+895,Lotysska
+896,Lotysska
+897,Lotysska
+898,Poliklinika Prosek
+899,Poliklinika Prosek
+900,Lysolaje
+901,Lysolaje
+902,Lysolaje
+903,Metodejova
+904,Metodejova
+905,Jana Masaryka
+906,Jana Masaryka
+907,Mala Chuchle
+908,Mala Chuchle
+909,Archeologicka
+910,Archeologicka
+911,Malesicka
+912,Malesicka
+913,Malesicka tovarna
+914,Malesicka tovarna
+915,Malesicka tovarna
+916,Malesicka tovarna
+917,Malesicke namesti
+918,Malesicke namesti
+919,Malesicke namesti
+920,Malostranska
+921,Malostranska
+922,Malostranska
+923,Malostranska
+924,Malostranska
+925,Malostranska
+926,Malostranska
+927,Malostranske namesti
+928,Malostranske namesti
+929,Malostranske namesti
+930,Malostranske namesti
+931,Malovanka
+932,Malovanka
+933,Malovanka
+934,Malovanka
+935,Malovanka
+936,Malvazinky
+937,Malvazinky
+938,Malvazinky
+939,Malvazinky
+940,Maly Brevnov
+941,Maly Brevnov
+942,Maly Brevnov
+943,Maly Brevnov
+944,Maniny
+945,Maniny
+946,Marjanka
+947,Marjanka
+948,Prumstav
+949,Prumstav
+950,Obchodni centrum Cakovice
+951,Obchodni centrum Cakovice
+952,Obchodni centrum Cakovice
+953,Sidliste Pisnice
+954,Sidliste Pisnice
+955,Sidliste Pisnice
+956,Dolni Sarka
+957,Dolni Sarka
+958,Krakov
+959,Krakov
+960,Naskove
+961,Naskove
+962,Mezi Hrbitovy
+963,Mezi Hrbitovy
+964,Mezi Hrbitovy
+965,Medenecka
+966,Medenecka
+967,Mechenicka
+968,Mechenicka
+969,Michelska
+970,Michelska
+971,Michelska
+972,Michelska
+973,U Labute
+974,U Labute
+975,Ustavy Akademie ved
+976,Ustavy Akademie ved
+977,Mikulova
+978,Mikulova
+979,Maskuv mlyn
+980,Maskuv mlyn
+981,Mokra
+982,Mokra
+983,Kreslice
+984,Kreslice
+985,Reinerova
+986,Reinerova
+987,Miskovice
+988,Miskovice
+989,Miskovice
+990,Pankrac
+991,Pankrac
+992,Pankrac
+993,Pankrac
+994,Pankrac
+995,Pankrac
+996,Pankrac
+997,Pankrac
+998,Modra skola
+999,Modra skola
+1000,Modra skola
+1001,Pobrezni cesta
+1002,Pobrezni cesta
+1003,Pobrezni cesta
+1004,Pobrezni cesta
+1005,Nadrazi Modrany
+1006,Nadrazi Modrany
+1007,Nadrazi Modrany
+1008,Nadrazi Modrany
+1009,Prumyslova
+1010,Prumyslova
+1011,Vrsovicke namesti
+1012,Vrsovicke namesti
+1013,Most Zavodu miru
+1014,Most Zavodu miru
+1015,Motol
+1016,Motol
+1017,Motol
+1018,Motol
+1019,Krematorium Motol
+1020,Krematorium Motol
+1021,Krematorium Motol
+1022,Krematorium Motol
+1023,U Waltrovky
+1024,U Waltrovky
+1025,U Waltrovky
+1026,U Waltrovky
+1027,V Sedlci
+1028,V Sedlci
+1029,Murmanska
+1030,Murmanska
+1031,Radonicka
+1032,Radonicka
+1033,Muzeum
+1034,Muzeum
+1035,Muzeum
+1036,Muzeum
+1037,Muzeum
+1038,Muzeum
+1039,Muzeum
+1040,Muzeum
+1041,Myslikova
+1042,Myslikova
+1043,Na Blanici
+1044,Na Blanici
+1045,Na Grosi
+1046,Na Grosi
+1047,Na Grosi
+1048,Na Grosi
+1049,Na Homoli
+1050,Na Homoli
+1051,Na Homoli
+1052,Na Homoli
+1053,Vystaviste Letnany
+1054,Vystaviste Letnany
+1055,Na Hrebenech
+1056,Na Hrebenech
+1057,Libosovicka
+1058,Libosovicka
+1059,Trebesovska
+1060,Trebesovska
+1061,Na Kosiku
+1062,Na Kosiku
+1063,Do Rybnicku
+1064,Na Pramenech
+1065,Na Pramenech
+1066,Na Lysinach
+1067,Na Lysinach
+1068,Na Micankach
+1069,Na Micankach
+1070,Na Mlynku
+1071,Na Mlynku
+1072,Pod Dalnici
+1073,Pod Dalnici
+1074,Na Padesatniku
+1075,Na Padesatniku
+1076,Nad Pahorkem
+1077,Na Palouku
+1078,Na Palouku
+1079,Na Parcelach
+1080,Na Parcelach
+1081,Na Pastvinach
+1082,Na Pastvinach
+1083,Jemnicka
+1084,Jemnicka
+1085,Chodovska tvrz
+1086,Chodovska tvrz
+1087,Na Santince
+1088,Na Santince
+1089,Na Sklonku
+1090,Na Sklonku
+1091,Na Smetance
+1092,Na Smetance
+1093,Na Srpecku
+1094,Na Srpecku
+1095,Na Strzi
+1096,Na Strzi
+1097,Na Strzi
+1098,Na Strzi
+1099,Na Stamberku
+1100,Na Stamberku
+1101,Pekarenska
+1102,Na Vanhove
+1103,Na Vanhove
+1104,Na Veseli
+1105,Na Veseli
+1106,Na Veseli
+1107,Na Veseli
+1108,Na Vinickach
+1109,Na Vrchach
+1110,Na Vrchach
+1111,Na Vrchach
+1112,Na Vrchach
+1113,Na Vrstevnici
+1114,Na Vrstevnici
+1115,Slavinskeho
+1116,Slavinskeho
+1117,Slavinskeho
+1118,Krahulci
+1119,Krahulci
+1120,Nabrezi Kapitana Jarose
+1121,Nad Habrovkou
+1122,Nad Habrovkou
+1123,Nad Havlem
+1124,Nad Havlem
+1125,Nad Jetelkou
+1126,Nad Jetelkou
+1127,Nad Klamovkou
+1128,Nad Klamovkou
+1129,Safranecka
+1130,Safranecka
+1131,Nad Parkanem
+1132,Nad Parkanem
+1133,Hasova
+1134,Hasova
+1135,Nad Trojou
+1136,Nad Trojou
+1137,Nadrazi Bechovice
+1138,Nadrazi Bechovice
+1139,Nadrazi Branik
+1140,Nadrazi Branik
+1141,Nadrazi Branik
+1142,Nadrazi Branik
+1143,Nadrazi Branik
+1144,Nadrazi Branik
+1145,Nadrazi Branik
+1146,Nadrazi Branik
+1147,Nadrazi Branik
+1148,Goetheho
+1149,Za Avii
+1150,Za Avii
+1151,Nadrazi Horni Pocernice
+1152,Nadrazi Horni Pocernice
+1153,Nadrazi Horni Pocernice
+1154,Nadrazi Hostivar
+1155,Nadrazi Hostivar
+1156,Nadrazi Hostivar
+1157,Nadrazi Hostivar
+1158,Nadrazi Hostivar
+1159,Nadrazi Hostivar
+1160,Nadrazi Hostivar
+1161,Nadrazi Hostivar
+1162,Nadrazi Hostivar
+1163,Nadrazi Klanovice
+1164,Nadrazi Klanovice
+1165,Nadrazi Klanovice-sever
+1166,Nadrazi Klanovice-sever
+1167,U Rozcesti
+1168,U Rozcesti
+1169,Nadrazi Radotin
+1170,Nadrazi Radotin
+1171,Nadrazi Radotin
+1172,Nadrazi Radotin
+1173,Nadrazi Radotin
+1174,Nadrazi Satalice
+1175,Nadrazi Satalice
+1176,Smichovske nadrazi
+1177,Smichovske nadrazi
+1178,Smichovske nadrazi
+1179,Smichovske nadrazi
+1180,Smichovske nadrazi
+1181,Smichovske nadrazi
+1182,Smichovske nadrazi
+1183,Smichovske nadrazi
+1184,Smichovske nadrazi
+1185,Smichovske nadrazi
+1186,Smichovske nadrazi
+1187,Smichovske nadrazi
+1188,Smichovske nadrazi
+1189,Smichovske nadrazi
+1190,Stare Strasnice
+1191,Stare Strasnice
+1192,Stare Strasnice
+1193,Stare Strasnice
+1194,Nadrazi Uhrineves
+1195,Nadrazi Uhrineves
+1196,Nadrazi Veleslavin
+1197,Nadrazi Veleslavin
+1198,Nadrazi Veleslavin
+1199,Nadrazi Veleslavin
+1200,Nadrazi Veleslavin
+1201,Nadrazi Veleslavin
+1202,Nadrazi Veleslavin
+1203,Nadrazi Vrsovice
+1204,Nadrazi Vrsovice
+1205,Nadrazi Vrsovice
+1206,Nadrazi Vrsovice
+1207,Poliklinika Vysocany
+1208,Poliklinika Vysocany
+1209,Poliklinika Vysocany
+1210,Poliklinika Vysocany
+1211,Nadrazi Zbraslav
+1212,Nadrazi Zbraslav
+1213,Trebenicka
+1214,Trebenicka
+1215,Trebenicka
+1216,Trebenicka
+1217,Pod Devinem
+1218,Pod Devinem
+1219,Nakladove nadrazi Zizkov
+1220,Nakladove nadrazi Zizkov
+1221,Nakladove nadrazi Zizkov
+1222,Nakladove nadrazi Zizkov
+1223,Slivenec
+1224,Slivenec
+1225,Libensky zamek
+1226,Libensky zamek
+1227,Hostivarska
+1228,Hostivarska
+1229,Hostivarska
+1230,Hostivarska
+1231,Kubanske namesti
+1232,Kubanske namesti
+1233,Kubanske namesti
+1234,Vysocanska
+1235,Vysocanska
+1236,Nadrazi Vysocany
+1237,Vysocanska
+1238,Vysocanska
+1239,Vysocanska
+1240,Vysocanska
+1241,Nadrazi Vysocany
+1242,Vysocanska
+1243,Vysocanska
+1244,Mladi
+1245,Mladi
+1246,Namesti Miru
+1247,Namesti Miru
+1248,Namesti Miru
+1249,Namesti Miru
+1250,Namesti Miru
+1251,Macharovo namesti
+1252,Macharovo namesti
+1253,Velka Chuchle
+1254,Namesti Republiky
+1255,Namesti Republiky
+1256,Masarykovo nadrazi
+1257,Masarykovo nadrazi
+1258,Namesti Republiky
+1259,Namesti Republiky
+1260,Svandovo divadlo
+1261,Svandovo divadlo
+1262,Svandovo divadlo
+1263,Svandovo divadlo
+1264,Namesti Bratri Synku
+1265,Namesti Bratri Synku
+1266,Namesti Bratri Synku
+1267,Namesti Bratri Synku
+1268,Otakarova
+1269,Otakarova
+1270,Namesti Bratri Synku
+1271,Narodni divadlo
+1272,Narodni divadlo
+1273,Narodni divadlo
+1274,Narodni divadlo
+1275,Vodickova
+1276,Vodickova
+1277,Nebusice
+1278,Nebusice
+1279,K Noskovne
+1280,K Noskovne
+1281,Nedvezi
+1282,Nedvezi
+1283,Nemocnice Krc
+1284,Nemocnice Krc
+1285,Nemocnice Krc
+1286,Nemocnice Krc
+1287,Nemocnice Krc
+1288,Nemocnice Krc
+1289,Kudrnova
+1290,Kudrnova
+1291,Netluky
+1292,Netluky
+1293,Newtonova
+1294,Newtonova
+1295,Nova kolonie
+1296,Nova kolonie
+1297,Nova Sarka
+1298,Nova Sarka
+1299,Nove dvory
+1300,Nove dvory
+1301,Nove dvory
+1302,Nove Podoli
+1303,Nove Podoli
+1304,Novodvorska
+1305,Novodvorska
+1306,Novodvorska
+1307,Novodvorska
+1308,Novodvorska
+1309,Novovysocanska
+1310,Novovysocanska
+1311,Novy Hloubetin
+1312,Novy Hloubetin
+1313,Novy Hloubetin
+1314,Novy Hloubetin
+1315,Novy Prosek
+1316,Novy Prosek
+1317,Novy Slivenec
+1318,Novy Slivenec
+1319,Novy Strizkov
+1320,Novy Strizkov
+1321,Nuselska radnice
+1322,Nuselska radnice
+1323,Nuselske schody
+1324,Nuselske schody
+1325,K Trebonicum
+1326,K Trebonicum
+1327,V Podbabe
+1328,V Podbabe
+1329,Petriny
+1330,Petriny
+1331,Petriny
+1332,Petriny
+1333,Bohemians
+1334,Bohemians
+1335,Observator Libus
+1336,Observator Libus
+1337,Ceskomoravska
+1338,Ceskomoravska
+1339,Ceskomoravska
+1340,Ceskomoravska
+1341,Odra
+1342,Odra
+1343,Ohrada
+1344,Ohrada
+1345,Ohrada
+1346,Ohrada
+1347,Ohrada
+1348,Ohrada
+1349,Suchdol
+1350,Suchdol
+1351,Okrouhlicka
+1352,Okrouhlicka
+1353,Olsanske hrbitovy
+1354,Olsanske hrbitovy
+1355,Olsanske hrbitovy
+1356,Olsanske hrbitovy
+1357,Olsanske namesti
+1358,Olsanske namesti
+1359,Olsanske namesti
+1360,Olsanske namesti
+1361,Opalova
+1362,Orionka
+1363,Orionka
+1364,Orionka
+1365,Orionka
+1366,Orechovka
+1367,Orechovka
+1368,Ortenovo namesti
+1369,Ortenovo namesti
+1370,Ostrcilovo namesti
+1371,Ostrcilovo namesti
+1372,Otinska
+1373,Otinska
+1374,Do Lipan
+1375,Do Lipan
+1376,Huntirovska
+1377,Huntirovska
+1378,Vysehrad
+1379,Vysehrad
+1380,Vysehrad
+1381,Vysehrad
+1382,Palmovka
+1383,Palmovka
+1384,Palmovka
+1385,Palmovka
+1386,Palmovka
+1387,Palmovka
+1388,Palmovka
+1389,Palmovka
+1390,Palmovka
+1391,Palmovka
+1392,Palmovka
+1393,Paloucek
+1394,Paloucek
+1395,Pohorelec
+1396,Pohorelec
+1397,Vystaviste
+1398,Vystaviste
+1399,Vystaviste
+1400,Vystaviste
+1401,Pavlikova
+1402,Pavlikova
+1403,Pavovske namesti
+1404,Pavovske namesti
+1405,Pelc Tyrolka
+1406,Pelunek
+1407,Pelunek
+1408,Perlit
+1409,Perlit
+1410,Narodni trida
+1411,Narodni trida
+1412,Narodni trida
+1413,Narodni trida
+1414,Perunova
+1415,Perunova
+1416,Perunova
+1417,Sidliste Petriny
+1418,Sidliste Petriny
+1419,Sidliste Petriny
+1420,Sidliste Petriny
+1421,Sidliste Petriny
+1422,Picassova
+1423,Picassova
+1424,Pisecna
+1425,Pisecna
+1426,Cimicky haj
+1427,Cimicky haj
+1428,Pisnice
+1429,Pisnice
+1430,Pisnice
+1431,Ke Brezine
+1432,Ke Brezine
+1433,Plananska
+1434,Plananska
+1435,Poliklinika Malesice
+1436,Poliklinika Malesice
+1437,Plynarna Michle
+1438,Plynarna Michle
+1439,Radiova
+1440,Radiova
+1441,Plzenka
+1442,Plzenka
+1443,Dlouha mile
+1444,Dlouha mile
+1445,Poceradska
+1446,Poceradska
+1447,Pod Hajem
+1448,Pod Hajem
+1449,Botanicka zahrada Troja
+1450,Botanicka zahrada Troja
+1451,Botanicka zahrada Troja
+1452,Ruzynsky hrbitov
+1453,Ruzynsky hrbitov
+1454,Pod Jezerkou
+1455,Pod Jezerkou
+1456,Pod Karlovem
+1457,Pod Karlovem
+1458,Pod Kesnerkou
+1459,Pod Konvarkou
+1460,Pod Konvarkou
+1461,Pod Kralovkou
+1462,Pod Kralovkou
+1463,Pod Kyjovem
+1464,Pod Kyjovem
+1465,Pod Lipkami
+1466,Pod Mezi
+1467,Pod Mezi
+1468,Hotel Golf
+1469,Hotel Golf
+1470,Pod Oborou
+1471,Pod Oborou
+1472,Pod Pekarkou
+1473,Pod Pekarkou
+1474,Pod Rapidem
+1475,Pod Rapidem
+1476,Pod Rysankou
+1477,Pod Rysankou
+1478,Pod Safrankou
+1479,Pod Safrankou
+1480,Pod Smukyrkou
+1481,Pod Smukyrkou
+1482,Pod Taborem
+1483,Pod Taborem
+1484,Pod Trebesinem
+1485,Pod Trebesinem
+1486,Pod Vinici
+1487,Pod Vinici
+1488,Pod Vyhlidkou
+1489,Pod Vyhlidkou
+1490,Pod Zatackou
+1491,Pod Zatackou
+1492,Podbelohorska
+1493,Podbelohorska
+1494,Podbelohorska
+1495,Podbelohorska
+1496,Postovka
+1497,Postovka
+1498,Podhajska pole
+1499,Podhajska pole
+1500,Podhori
+1501,Podhori
+1502,Podolska vodarna
+1503,Podolska vodarna
+1504,Podolska vodarna
+1505,Podolska vodarna
+1506,Dubecska
+1507,Dubecska
+1508,Polygraficka
+1509,Polygraficka
+1510,Olsanska
+1511,Olsanska
+1512,Ohradske namesti
+1513,Povltavska
+1514,Kavci hory
+1515,Kavci hory
+1516,Kavci hory
+1517,Kavci hory
+1518,Prasna
+1519,Pod Krocinkou
+1520,Pod Krocinkou
+1521,Prasny most
+1522,Prasny most
+1523,Pravnicka fakulta
+1524,Pravnicka fakulta
+1525,Prazska trznice
+1526,Prazska trznice
+1527,Obchodni centrum Hostivar
+1528,Obchodni centrum Hostivar
+1529,Obchodni centrum Hostivar
+1530,Obchodni centrum Hostivar
+1531,Prazskeho povstani
+1532,Prazskeho povstani
+1533,Prazskeho povstani
+1534,Prazskeho povstani
+1535,Prazskeho povstani
+1536,Prazskeho povstani
+1537,Prazskeho povstani
+1538,Prazskeho povstani
+1539,Prazskeho povstani
+1540,Prazskeho povstani
+1541,Prazsky hrad
+1542,Prazsky hrad
+1543,Na Hroude
+1544,Na Hroude
+1545,Prestinska
+1546,Prestinska
+1547,Prestinska
+1548,Prestinska
+1549,Roztyly
+1550,Roztyly
+1551,Roztyly
+1552,Roztyly
+1553,Nove Butovice
+1554,Nove Butovice
+1555,Nove Butovice
+1556,Nove Butovice
+1557,Nove Butovice
+1558,Nove Butovice
+1559,Nove Butovice
+1560,Prosek
+1561,Prosek
+1562,Prosek
+1563,Prosek
+1564,Prosek
+1565,Prosek
+1566,Prosek
+1567,Prosek
+1568,Hnevkovskeho
+1569,Hnevkovskeho
+1570,Prubezna
+1571,Prubezna
+1572,Prubezna
+1573,Prubezna
+1574,Letnanska
+1575,Letnanska
+1576,Letnanska
+1577,Zamky
+1578,Zamky
+1579,Prvomajova
+1580,Prvomajova
+1581,Predni Kopanina
+1582,Predni Kopanina
+1583,Predni Kopanina
+1584,Predni Kopanina
+1585,Obora Hvezda
+1586,Obora Hvezda
+1587,Obora Hvezda
+1588,Obora Hvezda
+1589,Kunraticka skola
+1590,Kunraticka skola
+1591,Sidliste Repy
+1592,Sidliste Repy
+1593,Sidliste Repy
+1594,Sidliste Repy
+1595,Sidliste Repy
+1596,Sidliste Repy
+1597,Sidliste Repy
+1598,Prirodni
+1599,Prirodni
+1600,Pristaviste
+1601,Pristaviste
+1602,Pristaviste
+1603,Pristaviste
+1604,Privorska
+1605,Privorska
+1606,Radhostska
+1607,Radhostska
+1608,Radosovicka
+1609,Radosovicka
+1610,Radosovicka
+1611,U Stare posty
+1612,U Stare posty
+1613,Nemocnice Na Frantisku
+1614,Nemocnice Na Frantisku
+1615,Rohoznicka
+1616,Rohoznicka
+1617,Rokoska
+1618,Rokoska
+1619,Roztocka
+1620,Roztocka
+1621,Roztylske namesti
+1622,Roztylske namesti
+1623,Labe
+1624,Labe
+1625,Rozynova
+1626,Rozynova
+1627,Ruska
+1628,Ruska
+1629,Terminal 1
+1630,Terminal 1
+1631,Terminal 1
+1632,Terminal 2
+1633,Terminal 2
+1634,Terminal 2
+1635,Ruzynska
+1636,Ruzynska
+1637,Ruzynska skola
+1638,Ruzynska skola
+1639,Rysanka
+1640,Rysanka
+1641,Rysanka
+1642,Repcicka
+1643,Repcicka
+1644,Reporyjske namesti
+1645,Reporyjske namesti
+1646,Skola Repy
+1647,Skola Repy
+1648,Ricanova
+1649,Ricanova
+1650,Safirova
+1651,Safirova
+1652,Santoska
+1653,Santoska
+1654,Satalicka obora
+1655,Satalicka obora
+1656,Sdruzeni
+1657,Sdruzeni
+1658,Selska
+1659,Selska
+1660,Selska
+1661,Selska
+1662,Serpentina
+1663,Severozapadni
+1664,Severozapadni
+1665,Schodova
+1666,Schodova
+1667,Sibeliova
+1668,Sibeliova
+1669,Sibeliova
+1670,Sibeliova
+1671,Sibirske namesti
+1672,Sibirske namesti
+1673,Sidliste Bohnice
+1674,Sidliste Bohnice
+1675,Sidliste Bohnice
+1676,Poliklinika Mazurska
+1677,Poliklinika Mazurska
+1678,Poliklinika Mazurska
+1679,Ronesova
+1680,Ronesova
+1681,Sidliste Dablice
+1682,Sidliste Dablice
+1683,Sidliste Dablice
+1684,Sidliste Dablice
+1685,Sidliste Hloubetin
+1686,Sidliste Hloubetin
+1687,Sidliste Hloubetin
+1688,Sidliste Hloubetin
+1689,Sidliste Homolka
+1690,Sidliste Homolka
+1691,Gercenova
+1692,Gercenova
+1693,Invalidovna
+1694,Invalidovna
+1695,Invalidovna
+1696,Invalidovna
+1697,Sidliste Krc
+1698,Sidliste Krc
+1699,Sidliste Lehovec
+1700,Sidliste Lehovec
+1701,Sidliste Lhotka
+1702,Sidliste Lhotka
+1703,Sidliste Lhotka
+1704,Sidliste Lhotka
+1705,Sidliste Lhotka
+1706,Sidliste Libus
+1707,Sidliste Libus
+1708,Sidliste Malesice
+1709,Sidliste Malesice
+1710,Sidliste Malesice
+1711,Sidliste Malesice
+1712,Sidliste Malesice
+1713,Sidliste Na Dedine
+1714,Sidliste Na Dedine
+1715,Sidliste Novodvorska
+1716,Sidliste Novodvorska
+1717,Sidliste Pankrac
+1718,Sidliste Pankrac
+1719,Sidliste Pankrac
+1720,Sidliste Pankrac
+1721,Dekanka
+1722,Dekanka
+1723,Sidliste Prosek
+1724,Sidliste Prosek
+1725,Sidliste Radotin
+1726,Sidliste Radotin
+1727,Nevanova
+1728,Nevanova
+1729,Rembrandtova
+1730,Rembrandtova
+1731,Sidliste Sporilov
+1732,Sidliste Sporilov
+1733,Sidliste Zahradni Mesto
+1734,Sidliste Zahradni Mesto
+1735,Sidliste Zahradni Mesto
+1736,Sidliste Zahradni Mesto
+1737,Jesenicka
+1738,Jesenicka
+1739,Jesenicka
+1740,Sidliste Zbraslav
+1741,Sidliste Zbraslav
+1742,Na Padesatem
+1743,Na Padesatem
+1744,Kralovicka
+1745,Kralovicka
+1746,Kobylisy
+1747,Kobylisy
+1748,Kobylisy
+1749,Kobylisy
+1750,Kobylisy
+1751,Kobylisy
+1752,Kobylisy
+1753,Kobylisy
+1754,Kobylisy
+1755,Kobylisy
+1756,Kobylisy
+1757,Strelnicna
+1758,Strelnicna
+1759,Sklarska
+1760,Sklarska
+1761,Sklonena
+1762,Sklonena
+1763,Slatinova
+1764,Slatinova
+1765,Slavia
+1766,Slavia
+1767,Slavia
+1768,Slavia
+1769,Slivenecka
+1770,Slivenecka
+1771,Teplicka
+1772,Teplicka
+1773,Smiricka
+1774,Smiricka
+1775,Jinonice
+1776,Jinonice
+1777,Jinonice
+1778,Jinonice
+1779,Jinonice
+1780,Jinonice
+1781,Jinonice
+1782,Smrzovska
+1783,Smrzovska
+1784,Sobin
+1785,Sobin
+1786,Sidliste Kobylisy
+1787,Sidliste Kobylisy
+1788,Florenc
+1789,Florenc
+1790,Florenc
+1791,Florenc
+1792,Florenc
+1793,Florenc
+1794,Florenc
+1795,Florenc
+1796,Florenc
+1797,Florenc
+1798,Florenc
+1799,Solidarita
+1800,Solidarita
+1801,Podkovarska
+1802,Podkovarska
+1803,Sparta
+1804,Sparta
+1805,Sparta
+1806,Sparta
+1807,U Palaty
+1808,U Palaty
+1809,Spojovaci
+1810,Spojovaci
+1811,Spojovaci
+1812,Spojovaci
+1813,Spolska
+1814,Spolska
+1815,V Kratinach
+1816,V Kratinach
+1817,Sporilov
+1818,Sporilov
+1819,Sporilov
+1820,Sporilov
+1821,Sporilov
+1822,Sporilov
+1823,Sporilov
+1824,Terminal 3
+1825,Terminal 3
+1826,Stadion Strahov
+1827,Stadion Strahov
+1828,Stadion Strahov
+1829,Stadion Strahov
+1830,Stadion Strahov
+1831,Stare namesti
+1832,Drnovska
+1833,Stare namesti
+1834,Drnovska
+1835,Starodejvicka
+1836,Starodejvicka
+1837,Starochuchelska
+1838,Staromestska
+1839,Staromestska
+1840,Staromestska
+1841,Staromestska
+1842,Staromestska
+1843,Staromestska
+1844,Staromestska
+1845,Stary Sporilov
+1846,Stary Sporilov
+1847,Zavodiste Chuchle
+1848,Zavodiste Chuchle
+1849,Strojirenska
+1850,Strojirenska
+1851,Tiskarska
+1852,Tiskarska
+1853,Zamenhofova
+1854,Narozni
+1855,Narozni
+1856,Vackova
+1857,Vackova
+1858,Kovarova-KD Mlejn
+1859,Kovarova-KD Mlejn
+1860,Sidliste Stodulky
+1861,Sidliste Stodulky
+1862,Strasnicka
+1863,Strasnicka
+1864,Strasnicka
+1865,Strasnicka
+1866,Strasnicka
+1867,Strasnicka
+1868,Strasnicka
+1869,Strazni
+1870,Strazni
+1871,Strossmayerovo namesti
+1872,Strossmayerovo namesti
+1873,Strossmayerovo namesti
+1874,Strossmayerovo namesti
+1875,Strossmayerovo namesti
+1876,Brezineveska
+1877,Brezineveska
+1878,Sudejovicka
+1879,Sudejovicka
+1880,Smaragdova
+1881,Suchdolske namesti
+1882,Suchdolske namesti
+1883,Sulicka
+1884,Sulicka
+1885,Vrsovicky hrbitov
+1886,Vrsovicky hrbitov
+1887,Svatoplukova
+1888,Svatoplukova
+1889,Tehovicky
+1890,Tehovicky
+1891,Vaclava Spacka
+1892,Vaclava Spacka
+1893,Darwinova
+1894,Darwinova
+1895,Satovka
+1896,Satovka
+1897,Seberak
+1898,Seberak
+1899,Seberov
+1900,Seberov
+1901,V Ladech
+1902,V Ladech
+1903,Bolevecka
+1904,Bolevecka
+1905,Smukyrka
+1906,Smukyrka
+1907,Spejchar
+1908,Spejchar
+1909,Sperlova
+1910,Sperlova
+1911,Spitalka
+1912,Spitalka
+1913,Stefkova
+1914,Stefkova
+1915,Stechovicka
+1916,Stechovicka
+1917,Stepanska
+1918,Stepanska
+1919,Stepanska
+1920,Stepnicna
+1921,Stepnicna
+1922,Stepnicna
+1923,Stepnicna
+1924,Ustredni
+1925,Ustredni
+1926,Ustredni
+1927,Novosterboholska
+1928,Novosterboholska
+1929,Rokycanova
+1930,Rokycanova
+1931,Sumavska
+1932,Sumavska
+1933,Tachovske namesti
+1934,Tachovske namesti
+1935,U Jankovky
+1936,U Jankovky
+1937,Spalovna Malesice
+1938,Spalovna Malesice
+1939,Televizni vez
+1940,Televizni vez
+1941,Tempo
+1942,Tempo
+1943,Teplarna Malesice
+1944,Teplarna Malesice
+1945,Teplarna Michle
+1946,Teplarna Michle
+1947,Teplarna Treboradice
+1948,Terasy
+1949,Terasy
+1950,Prosecka
+1951,Prosecka
+1952,Nademlejnska
+1953,Nademlejnska
+1954,Cerveny dvur
+1955,Cerveny dvur
+1956,Thakurova
+1957,Thakurova
+1958,Thakurova
+1959,Thakurova
+1960,Krizikova
+1961,Krizikova
+1962,Krizikova
+1963,Krizikova
+1964,Topolova
+1965,Topolova
+1966,Tovarny Hostivar
+1967,Tovarny Hostivar
+1968,Satalice
+1969,Satalice
+1970,Satalice
+1971,Odlehla
+1972,Odlehla
+1973,Zoologicka zahrada
+1974,Zoologicka zahrada
+1975,Trojska
+1976,Trojska
+1977,Trojska
+1978,Trojska
+1979,Trutnovska
+1980,Trutnovska
+1981,Trebesin
+1982,Trebesin
+1983,Trebonice
+1984,Trebonice
+1985,Treboradice
+1986,Treboradice
+1987,Treboradice
+1988,Nove Petrovice
+1989,Nove Petrovice
+1990,Tupolevova
+1991,Tupolevova
+1992,Tyrsova ctvrt
+1993,Tyrsova ctvrt
+1994,U Dalnice
+1995,U Dalnice
+1996,U Elektry
+1997,U Elektry
+1998,U Hangaru
+1999,U Hangaru
+2000,U Kaplicky
+2001,U Kaplicky
+2002,U Kaplicky
+2003,U Kastanu
+2004,U Kastanu
+2005,U Krize
+2006,U Krize
+2007,U Krizku
+2008,U Krizku
+2009,U Ladronky
+2010,U Ladronky
+2011,U Lesika
+2012,U Lesika
+2013,U Libusske sokolovny
+2014,U Libusske sokolovny
+2015,U Lipy
+2016,U Lipy
+2017,U Lipy
+2018,U Lipy
+2019,U Lomu
+2020,U Lomu
+2021,K Fialce
+2022,K Fialce
+2023,U Mateje
+2024,U Mateje
+2025,U Mechurky
+2026,U Mechurky
+2027,U Pamatniku
+2028,U Pamatniku
+2029,Ke Klicovu
+2030,Ke Klicovu
+2031,Cakovicky zamek
+2032,Cakovicky zamek
+2033,Dubec
+2034,Dubec
+2035,Dubec
+2036,Skola Sterboholy
+2037,Skola Sterboholy
+2038,Sterboholy
+2039,Sterboholy
+2040,U Spoju
+2041,U Spoju
+2042,Na Planine
+2043,Na Planine
+2044,U Skoly
+2045,U Skoly
+2046,U Tovaren
+2047,U Tovaren
+2048,U Tri svatych
+2049,U Tri svatych
+2050,U Vaclava
+2051,U Vaclava
+2052,Nadrazi Dolni Pocernice
+2053,Nadrazi Dolni Pocernice
+2054,U Vcely
+2055,U Vcely
+2056,Zabovreska
+2057,U Vodojemu
+2058,U Vodojemu
+2059,U Zvonicky
+2060,U Zvonicky
+2061,U Zvonu
+2062,U Zvonu
+2063,U Zvonu
+2064,Repinska
+2065,Repinska
+2066,Ustredni dilny DP
+2067,Ustredni dilny DP
+2068,Ustredni dilny DP
+2069,Ustredni dilny DP
+2070,Uhrineves
+2071,Uhrineves
+2072,Ujezd
+2073,Ujezd
+2074,Ujezd
+2075,Ujezd
+2076,Ujezd u Pruhonic
+2077,Ujezd nad Lesy
+2078,Ujezd nad Lesy
+2079,Ujezd nad Lesy
+2080,Ujezd nad Lesy
+2081,Ujezd nad Lesy
+2082,Ujezd nad Lesy
+2083,Formanska
+2084,Formanska
+2085,Ukrajinska
+2086,Ukrajinska
+2087,Elisky Premyslovny
+2088,Urbanova
+2089,Urbanova
+2090,Urxova
+2091,Urxova
+2092,Sprava socialniho zabezpeceni
+2093,Sprava socialniho zabezpeceni
+2094,Rajska zahrada
+2095,Rajska zahrada
+2096,Rajska zahrada
+2097,Rajska zahrada
+2098,Ustav materstvi
+2099,Ustav materstvi
+2100,Drobna
+2101,Drobna
+2102,Namesti Winstona Churchilla
+2103,Namesti Winstona Churchilla
+2104,Namesti Winstona Churchilla
+2105,U Haje
+2106,U Haje
+2107,Nad Kosikem
+2108,Nad Kosikem
+2109,V Chotejne
+2110,V Chotejne
+2111,V Korytech
+2112,V Korytech
+2113,Brezineves
+2114,Brezineves
+2115,Limuzska
+2116,Limuzska
+2117,Limuzska
+2118,Limuzska
+2119,Venusina
+2120,Venusina
+2121,V Rybnickach
+2122,V Rybnickach
+2123,V Sudech
+2124,V Sudech
+2125,V Ulicce
+2126,V Zapoli
+2127,V Zapoli
+2128,V Zapoli
+2129,V Zatisi
+2130,V Zatisi
+2131,Vackov
+2132,Vackov
+2133,Vaclavka
+2134,Vaclavka
+2135,Vozovna Zizkov
+2136,Vozovna Zizkov
+2137,Vozovna Zizkov
+2138,Kolovraty
+2139,Kolovraty
+2140,Ve Studenem
+2141,Ve Studenem
+2142,Ve Vyrech
+2143,Ve Vyrech
+2144,Veletrzni palac
+2145,Veletrzni palac
+2146,Veletrzni palac
+2147,Veletrzni palac
+2148,Poliklinika Petrovice
+2149,Poliklinika Petrovice
+2150,Bazovskeho
+2151,Bazovskeho
+2152,Vetrnik
+2153,Vetrnik
+2154,Vetrnik
+2155,Vetrnik
+2156,Vysokovska
+2157,Vidoule
+2158,Vidoule
+2159,Vidoule
+2160,Vidoule
+2161,Vozovna Strasnice
+2162,Vozovna Strasnice
+2163,Vinohradske hrbitovy
+2164,Vinohradske hrbitovy
+2165,Vinohradska trznice
+2166,Vinohradska trznice
+2167,Vinohradska vodarna
+2168,Vinohradska vodarna
+2169,Vinor
+2170,Vinor
+2171,Psohlavcu
+2172,Psohlavcu
+2173,Karlinske namesti
+2174,Karlinske namesti
+2175,Vlasimska
+2176,Vlasimska
+2177,Vlnita
+2178,Vlnita
+2179,Cechticka
+2180,Cechticka
+2181,Vojenska nemocnice
+2182,Vojenska nemocnice
+2183,Vojenska nemocnice
+2184,Vojicka
+2185,Vojicka
+2186,Vosmikovych
+2187,Vosmikovych
+2188,U Dobesky
+2189,U Dobesky
+2190,Vozovna Kobylisy
+2191,Vozovna Kobylisy
+2192,Vozovna Kobylisy
+2193,Vozovna Kobylisy
+2194,Vozovna Kobylisy
+2195,Vozovna Kobylisy
+2196,Vozovna Kobylisy
+2197,Vozovna Motol
+2198,Vozovna Motol
+2199,Vozovna Pankrac
+2200,Vozovna Pankrac
+2201,Vozovna Pankrac
+2202,Vozovna Stresovice
+2203,Vozovna Stresovice
+2204,Vozovna Stresovice
+2205,Vozovna Stresovice
+2206,Vozovna Vokovice
+2207,Vozovna Vokovice
+2208,Vyhledy
+2209,Vychovatelna
+2210,Vychovatelna
+2211,Vychovatelna
+2212,Vychovatelna
+2213,Vychovatelna
+2214,Lipovicka
+2215,Lipovicka
+2216,Vypich
+2217,Vypich
+2218,Vypich
+2219,Kukulova
+2220,Vypich
+2221,Postovska
+2222,Postovska
+2223,Zemedelska univerzita
+2224,Zemedelska univerzita
+2225,Zemedelska univerzita
+2226,Piskova
+2227,Piskova
+2228,Piskova
+2229,Albertov
+2230,Albertov
+2231,Albertov
+2232,Vyton
+2233,Vyton
+2234,Jilovska
+2235,Jilovska
+2236,VU Bechovice
+2237,VU Bechovice
+2238,Vinopalnicka
+2239,Vinopalnicka
+2240,Na Sabatce
+2241,Na Sabatce
+2242,Xaverov
+2243,Xaverov
+2244,Za Horou
+2245,Za Horou
+2246,Za Horou
+2247,Za Chalupami
+2248,Za Chalupami
+2249,Zabehlice
+2250,Zabehlice
+2251,Zabehlicka skola
+2252,Zabehlicka skola
+2253,Zadni Kopanina
+2254,Zadni Kopanina
+2255,Zahradni Mesto
+2256,Zahradni Mesto
+2257,Zahradni Mesto
+2258,Centrum Zahradni Mesto
+2259,Centrum Zahradni Mesto
+2260,Centrum Zahradni Mesto
+2261,Zahradnictvi
+2262,Zahradnictvi
+2263,Zahradky
+2264,Zahradky
+2265,Zalesi
+2266,Zalesi
+2267,Zalesi
+2268,Zalesi
+2269,Zalesi
+2270,Zalesi
+2271,U Studanky
+2272,U Studanky
+2273,Zatacka
+2274,Zatacka
+2275,Zavist
+2276,Zavist
+2277,Cerny Most
+2278,Cerny Most
+2279,Cerny Most
+2280,Cerny Most
+2281,Cerny Most
+2282,Cerny Most
+2283,Cerny Most
+2284,Cerny Most
+2285,Cerny Most
+2286,Cerny Most
+2287,Za Cimickym hajem
+2288,Za Cimickym hajem
+2289,Avia Letnany
+2290,Avia Letnany
+2291,Zborov - Strasnicke divadlo
+2292,Zborov - Strasnicke divadlo
+2293,Zborovska
+2294,Zborovska
+2295,Zbraslavske namesti
+2296,Zbraslavske namesti
+2297,Zbraslavske namesti
+2298,Zbraslavske namesti
+2299,Zbraslavske namesti
+2300,Zbyslavska
+2301,Zbyslavska
+2302,Michnovka
+2303,Michnovka
+2304,Skola Nebusice
+2305,Skola Nebusice
+2306,Zelena
+2307,Zelena
+2308,Zelena
+2309,Zelena
+2310,Zelena liska
+2311,Zelena liska
+2312,IKEM
+2313,IKEM
+2314,Zelene domky
+2315,Zelene domky
+2316,Zeleny pruh
+2317,Zeleny pruh
+2318,Zemanka
+2319,Zemanka
+2320,Zhorelecka
+2321,Zhorelecka
+2322,Zhorelecka
+2323,Zhorelecka
+2324,Halenkovska
+2325,Halenkovska
+2326,Halenkovska
+2327,Halenkovska
+2328,Zlichov
+2329,Zlichov
+2330,Zlichov
+2331,Zmrzlik
+2332,Zmrzlik
+2333,Ke Katerinkam
+2334,Ke Katerinkam
+2335,Ke Katerinkam
+2336,Ke Katerinkam
+2337,Zabovresky
+2338,Zabovresky
+2339,Zakovska
+2340,Zakovska
+2341,Nove Pitkovice
+2342,Nove Pitkovice
+2343,Zelivecka
+2344,Zelivecka
+2345,Zelivskeho
+2346,Zelivskeho
+2347,Zelivskeho
+2348,Zelivskeho
+2349,Zelivskeho
+2350,Zelivskeho
+2351,Zelivskeho
+2352,Zelivskeho
+2353,Zelivskeho
+2354,Zelivskeho
+2355,Zelivskeho
+2356,Zelivskeho
+2357,Zenske domovy
+2358,Zezulka
+2359,Zezulka
+2360,Na Pazderce
+2361,Na Pazderce
+2362,Dunajecka
+2363,Dunajecka
+2364,Nad Bechovicemi
+2365,Nad Bechovicemi
+2366,Druzna
+2367,Druzna
+2368,Tylova ctvrt
+2369,Tylova ctvrt
+2370,Poliklinika Modrany
+2371,Poliklinika Modrany
+2372,Poliklinika Modrany
+2373,Poliklinika Modrany
+2374,Poliklinika Modrany
+2375,Kobrova
+2376,Kobrova
+2377,U Mlejna
+2378,U Mlejna
+2379,Primske namesti
+2380,Primske namesti
+2381,Na Bojisti
+2382,Namesti Jiriho Berana
+2383,Namesti Jiriho Berana
+2384,Visnova
+2385,Visnova
+2386,Dolnokrcska
+2387,Dolnokrcska
+2388,Nad Rybniky
+2389,Nad Rybniky
+2390,Rosecska
+2391,Rosecska
+2392,Na Havrance
+2393,Na Havrance
+2394,Kafkova
+2395,Lomy
+2396,Lomy
+2397,Sidliste Cerveny Vrch
+2398,Sidliste Cerveny Vrch
+2399,Za Farou
+2400,Za Farou
+2401,Levskeho
+2402,Levskeho
+2403,Levskeho
+2404,Sidliste Modrany
+2405,Sidliste Modrany
+2406,Sidliste Modrany
+2407,Sidliste Modrany
+2408,Modranska rokle
+2409,Modranska rokle
+2410,Modranska rokle
+2411,Modranska rokle
+2412,U Libusskeho potoka
+2413,U Libusskeho potoka
+2414,U Libusskeho potoka
+2415,U Libusskeho potoka
+2416,Sidliste Cimice
+2417,Sidliste Cimice
+2418,Sidliste Cimice
+2419,Antala Staska
+2420,Antala Staska
+2421,Tesnov
+2422,Tesnov
+2423,Skalka
+2424,Skalka
+2425,Skalka
+2426,Skalka
+2427,Skalka
+2428,Skalka
+2429,Skalka
+2430,Detska nemocnice Karlov
+2431,Apolinarska
+2432,Apolinarska
+2433,Radlicka
+2434,Radlicka
+2435,Radlicka
+2436,Radlicka
+2437,Radlicka
+2438,Radlicka
+2439,Katerinska
+2440,Vetrov
+2441,Vetrov
+2442,Brodskeho
+2443,Brodskeho
+2444,Prazska ctvrt
+2445,Prazska ctvrt
+2446,Skladka Dablice
+2447,Skladka Dablice
+2448,Wattova
+2449,U Nemocnice
+2450,U Nemocnice
+2451,Ke Koulce
+2452,Safrankova
+2453,Safrankova
+2454,Safrankova
+2455,Safrankova
+2456,Sidliste Petrovice
+2457,Sidliste Petrovice
+2458,Sidliste Petrovice
+2459,Sidliste Petrovice
+2460,Nuslova
+2461,Nuslova
+2462,Jarnikova
+2463,Jarnikova
+2464,Zarska
+2465,Zarska
+2466,Vrbova
+2467,U Kunratickeho lesa
+2468,U Kunratickeho lesa
+2469,Na Varte
+2470,Na Varte
+2471,Barvy a laky
+2472,Barvy a laky
+2473,Nadrazi Velka Chuchle
+2474,Nadrazi Velka Chuchle
+2475,Veronske namesti
+2476,Lyskova
+2477,Lyskova
+2478,Nemocnice Bubenec
+2479,Nemocnice Bubenec
+2480,Koleje Strahov
+2481,Koleje Strahov
+2482,Volha
+2483,Volha
+2484,Volha
+2485,Stvanice
+2486,Stvanice
+2487,V Mokrinach
+2488,V Mokrinach
+2489,Na Slovance
+2490,Na Slovance
+2491,Svepravice
+2492,Svepravice
+2493,Svepravice
+2494,Svepravice
+2495,U Belarie
+2496,U Belarie
+2497,Na Jelenach
+2498,Na Jelenach
+2499,Madlina
+2500,Madlina
+2501,Do Koutu
+2502,Do Koutu
+2503,Spiritka
+2504,Spiritka
+2505,Certuv vrsek
+2506,Certuv vrsek
+2507,Brevnovsky klaster
+2508,Brevnovsky klaster
+2509,Na Cikorce
+2510,Lazarska
+2511,Lazarska
+2512,Lazarska
+2513,Lazarska
+2514,Pod Rihakem
+2515,Mototechna
+2516,Mototechna
+2517,Letnany
+2518,Letnany
+2519,Letnany
+2520,Letnany
+2521,Letnany
+2522,Letnany
+2523,Letnany
+2524,Letnany
+2525,Letnany
+2526,Letnany
+2527,Na Krecku
+2528,Na Krecku
+2529,Pod Lahovskou
+2530,Nad Dvorem
+2531,Nad Dvorem
+2532,Cechova ctvrt
+2533,Cechova ctvrt
+2534,Cechova ctvrt
+2535,Cechova ctvrt
+2536,Luka
+2537,Luka
+2538,Luka
+2539,Luka
+2540,Luka
+2541,Luka
+2542,Luka
+2543,Klasterecka
+2544,Klasterecka
+2545,Jircanska
+2546,Jircanska
+2547,Mirovicka
+2548,Mirovicka
+2549,Morseova
+2550,Morseova
+2551,Janovska
+2552,Janovska
+2553,Obchodni centrum Sterboholy
+2554,Obchodni centrum Sterboholy
+2555,Okorska
+2556,Sidliste Rohoznik
+2557,Sidliste Rohoznik
+2558,Zivcova
+2559,Rektorska
+2560,Rektorska
+2561,Sidliste Barrandov
+2562,Sidliste Barrandov
+2563,Poliklinika Haje
+2564,Poliklinika Haje
+2565,Kazinska
+2566,Ceskobrodska
+2567,Zatisska
+2568,Zatisska
+2569,Za Nadjezdem
+2570,Za Nadjezdem
+2571,U Kestranku
+2572,Amforova
+2573,Amforova
+2574,Poliklinika Barrandov
+2575,Poliklinika Barrandov
+2576,Poliklinika Barrandov
+2577,Poliklinika Barrandov
+2578,Lukavecka
+2579,Lukavecka
+2580,Dedinova
+2581,Dedinova
+2582,V Novych domcich
+2583,V Novych domcich
+2584,Za Trati
+2585,Za Trati
+2586,Platonova
+2587,Platonova
+2588,Petrzilova
+2589,Petrzilova
+2590,Pavelkova
+2591,Pavelkova
+2592,Pod Vsi
+2593,Pod Vsi
+2594,Na Drahach
+2595,Na Drahach
+2596,Andel
+2597,Andel
+2598,Andel
+2599,Andel
+2600,Na Knizeci
+2601,Na Knizeci
+2602,Na Knizeci
+2603,Na Knizeci
+2604,Andel
+2605,Andel
+2606,Andel
+2607,Na Knizeci
+2608,Na Knizeci
+2609,Na Knizeci
+2610,Na Knizeci
+2611,Andel
+2612,Andel
+2613,Andel
+2614,Andel
+2615,Andel
+2616,Andel
+2617,Ve Zlibku
+2618,Ve Zlibku
+2619,Ve Zlibku
+2620,Ve Zlibku
+2621,Vrazska
+2622,Vrazska
+2623,Pristav Radotin
+2624,Pristav Radotin
+2625,Braunova
+2626,Braunova
+2627,Vlastina
+2628,Vlastina
+2629,Na Mlynici
+2630,Na Mlynici
+2631,Nadrazi Krc
+2632,Nadrazi Krc
+2633,Hogerova
+2634,Hogerova
+2635,K Barrandovu
+2636,K Barrandovu
+2637,Chaplinovo namesti
+2638,Chaplinovo namesti
+2639,Chaplinovo namesti
+2640,Chaplinovo namesti
+2641,Chaplinovo namesti
+2642,Nadrazi Kyje
+2643,Nadrazi Kyje
+2644,Spitalska
+2645,Spitalska
+2646,Vozovna Hloubetin
+2647,Vozovna Hloubetin
+2648,Pankova
+2649,Pankova
+2650,Milevska
+2651,Poliklinika Cerny Most
+2652,Poliklinika Cerny Most
+2653,Kapitana Stranskeho
+2654,Kapitana Stranskeho
+2655,Ve Vilkach
+2656,Ve Vilkach
+2657,Lazenka
+2658,Lazenka
+2659,Talinska
+2660,Talinska
+2661,Dolezalova
+2662,Dolezalova
+2663,Rimska
+2664,Rimska
+2665,Za Slanskou silnici
+2666,Za Slanskou silnici
+2667,Za Slanskou silnici
+2668,Mokranska
+2669,Mokranska
+2670,Slovinska
+2671,Slovinska
+2672,Plosna
+2673,Plosna
+2674,Nadrazi Horni Mecholupy
+2675,Nadrazi Horni Mecholupy
+2676,Nadrazi Horni Mecholupy
+2677,Nadrazi Horni Mecholupy
+2678,Generala Janouska
+2679,Generala Janouska
+2680,Depo Hostivar
+2681,Depo Hostivar
+2682,Depo Hostivar
+2683,Depo Hostivar
+2684,Depo Hostivar
+2685,Depo Hostivar
+2686,Vaclavske namesti
+2687,Vaclavske namesti
+2688,Mustek
+2689,Mustek
+2690,Mustek
+2691,Mustek
+2692,Mala Ohrada
+2693,Mala Ohrada
+2694,Mala Ohrada
+2695,Krejcarek
+2696,Krejcarek
+2697,Ocelarska
+2698,Ocelarska
+2699,Michelangelova
+2700,Michelangelova
+2701,Nad Marketou
+2702,Nad Marketou
+2703,U Kundratky
+2704,U Kundratky
+2705,Oderska
+2706,Oderska
+2707,Jitrni
+2708,Jitrni
+2709,Letiste
+2710,Schengenska
+2711,Bryksova
+2712,Bohdalecka
+2713,Bohdalecka
+2714,Nemocnice Na Homolce
+2715,Nemocnice Na Homolce
+2716,V Liskach
+2717,Stepnice
+2718,Sidlistni
+2719,Sidlistni
+2720,Dolni Mecholupy
+2721,Dolni Mecholupy
+2722,Na Safrance
+2723,Na Safrance
+2724,Polesna
+2725,Sidliste Cakovice
+2726,Sidliste Cakovice
+2727,Sovenicka
+2728,Sovenicka
+2729,Kbelsky hrbitov
+2730,Kbelsky hrbitov
+2731,Kbelsky hrbitov
+2732,Ctenicky zamek
+2733,Ctenicky zamek
+2734,Ctenice
+2735,Ctenice
+2736,Rousinovska
+2737,Rousinovska
+2738,Vinice
+2739,Vinice
+2740,Zamasska
+2741,Zamasska
+2742,Velka Ohrada
+2743,Velka Ohrada
+2744,Za Pavilonem
+2745,Za Pavilonem
+2746,Petyrkova
+2747,Petyrkova
+2748,Nymburska
+2749,Nymburska
+2750,U Pruhonu
+2751,Zahradnickova
+2752,Cervenanskeho
+2753,Cervenanskeho
+2754,Steparska
+2755,Steparska
+2756,Zahorskeho
+2757,Zahorskeho
+2758,V Remizku
+2759,Grussova
+2760,Grussova
+2761,Breitcetlova
+2762,Breitcetlova
+2763,Bucharova
+2764,Bucharova
+2765,Pod Chodovem
+2766,Pod Chodovem
+2767,Mestsky archiv
+2768,U Drahane
+2769,U Drahane
+2770,Bohnicke udoli
+2771,Bohnicke udoli
+2772,Stodulky
+2773,Stodulky
+2774,Stodulky
+2775,Stodulky
+2776,Zlicin
+2777,Zlicin
+2778,Zlicin
+2779,Zlicin
+2780,Zlicin
+2781,Valticka
+2782,Valticka
+2783,Stary Prosek
+2784,Stary Prosek
+2785,Stary Prosek
+2786,Stary Prosek
+2787,Nad Zlichovem
+2788,Nad Zlichovem
+2789,Nadrazi Zvahov - Proslunena
+2790,Hurka
+2791,Hurka
+2792,Hurka
+2793,Hurka
+2794,Hurka
+2795,Hurka
+2796,Zvahov
+2797,Pod Zvahovem
+2798,Piskova
+2799,Piskova
+2800,Obchodni namesti
+2801,Obchodni namesti
+2802,Nadrazi Zvahov - V Nasypu
+2803,Univerzitni
+2804,Univerzitni
+2805,Rtynska
+2806,Rtynska
+2807,Stara obec
+2808,Skola Dolni Pocernice
+2809,Skola Dolni Pocernice
+2810,U Pocernickeho rybnika
+2811,U Pocernickeho rybnika
+2812,Bezdekovska
+2813,Bezdekovska
+2814,Nadrazi Ruzyne
+2815,Nadrazi Ruzyne
+2816,Nadrazi Ruzyne
+2817,Nadrazi Ruzyne
+2818,Brodecka
+2819,Brodecka
+2820,U Prioru
+2821,U Prioru
+2822,Ruzynsky velkoobchod
+2823,Ruzynsky velkoobchod
+2824,Ceskolipska
+2825,Ceskolipska
+2826,Planicka
+2827,Lahovska
+2828,Starolazenska
+2829,Starolazenska
+2830,Solna
+2831,Dreyerova
+2832,Dreyerova
+2833,Vajgarska
+2834,Vajgarska
+2835,Litovicky potok
+2836,Litovicky potok
+2837,Radnice Repy
+2838,Radnice Repy
+2839,Stary Zlicin
+2840,Stary Zlicin
+2841,K Hajum
+2842,K Hajum
+2843,Raichlova
+2844,Raichlova
+2845,Pruhonsky haj
+2846,Pruhonsky haj
+2847,Choceradska
+2848,Donatellova
+2849,Donatellova
+2850,Sidliste Na Grosi
+2851,Sidliste Na Grosi
+2852,Lipence
+2853,Lipence
+2854,U Pruseku
+2855,U Pruseku
+2856,Bazen Hloubetin
+2857,Bazen Hloubetin
+2858,Basteckeho
+2859,Basteckeho
+2860,K Netlukam
+2861,K Netlukam
+2862,Obchodni centrum Cerny Most
+2863,Obchodni centrum Cerny Most
+2864,Barrandovska
+2865,Obchodni centrum Sarska
+2866,Obchodni centrum Sarska
+2867,Ametystova
+2868,Drevarska
+2869,Drevarska
+2870,Jezovicka
+2871,Jezovicka
+2872,Pracska
+2873,Pracska
+2874,U Tabulky
+2875,U Tabulky
+2876,Stavebni zona Horni Pocernice
+2877,K Ricanum
+2878,K Ricanum
+2879,Obchodni centrum Ruzyne
+2880,Obchodni centrum Ruzyne
+2881,Butovicka
+2882,Butovicka
+2883,Pod Lochkovem
+2884,Pod Lochkovem
+2885,Sidliste Skalka
+2886,Sidliste Skalka
+2887,Blazimska
+2888,Chynovska
+2889,Knovizska
+2890,Otakara Vrby
+2891,Hasicska
+2892,Bachova
+2893,Bachova
+2894,Frantiska Veseleho
+2895,Pacericka
+2896,Do Certous
+2897,Sezemicka
+2898,Podnikatelska
+2899,Podnikatelska
+2900,Kodymova
+2901,Vlastiborska
+2902,Rajecka
+2903,Rajecka
+2904,Cernicka
+2905,Terezinska
+2906,Svatonovicka
+2907,Svatonovicka
+2908,U Bileho Mlynku
+2909,U Bileho Mlynku
+2910,Poliklinika Frydecka
+2911,Poliklinika Frydecka
+2912,Sumperska
+2913,Sumperska
+2914,Trinecka
+2915,Trinecka
+2916,Priborska
+2917,Priborska
+2918,K Drsnici
+2919,K Horomericum
+2920,K Horomericum
+2921,Kabesova
+2922,Kabesova
+2923,Vyskocilova
+2924,Vyskocilova
+2925,Za Skalkou
+2926,Za Skalkou
+2927,Na Formance
+2928,Na Formance
+2929,U Mezniku
+2930,U Mezniku
+2931,K Austisu
+2932,Diskarska
+2933,Diskarska
+2934,Marianske namesti
+2935,Marianske namesti
+2936,Truhlarska
+2937,Hradebni
+2938,Hradebni
+2939,Kundratka
+2940,Kundratka
+2941,Sicherova
+2942,Sicherova
+2943,Za Kaplickou
+2944,Netrebicka
+2945,Cholupice
+2946,Cholupice
+2947,Hrazanska
+2948,Hrazanska
+2949,K Chatam
+2950,Posta Ujezd nad Lesy
+2951,Posta Ujezd nad Lesy
+2952,Nadrazi Bechovice stred
+2953,Nadrazi Bechovice stred
+2954,Skola Velka Chuchle
+2955,Valcha
+2956,Valcha
+2957,Ivancicka
+2958,Radnice Praha 12
+2959,Sportovni centrum Horni Pocernice
+2960,Sportovni centrum Horni Pocernice
+2961,Pod Skolou
+2962,Namesti Olgy Scheinpflugove
+2963,Namesti Olgy Scheinpflugove
+2964,Holyne
+2965,Holyne
+2966,Volynska
+2967,Volynska
+2968,Zaveska
+2969,Zaveska
+2970,Dvorni
+2971,Cholupicky hrbitov
+2972,Cholupicky hrbitov
+2973,Delostrelecka
+2974,Delostrelecka
+2975,Sidliste Uhrineves
+2976,Sidliste Uhrineves
+2977,Jilemnicka
+2978,Jilemnicka
+2979,Pod Nouzovem
+2980,Pod Nouzovem
+2981,Dolnopocernicky hrbitov
+2982,Holysovska
+2983,Holysovska
+2984,Sportovni centrum Repy
+2985,Sportovni centrum Repy
+2986,Ceskomalinska
+2987,Ceskomalinska
+2988,Rooseveltova
+2989,Rooseveltova
+2990,Kbelsky lesopark
+2991,Kbelsky lesopark
+2992,OC Stromovka
+2993,Nemocnice Bohnice - Hlavni vratnice
+2994,Nemocnice Bohnice - Hlavni vratnice
+2995,Nemocnice Bohnice - Reditelstvi
+2996,Nemocnice Bohnice - Divadlo Za plotem
+2997,Nemocnice Bohnice
+2998,Nemocnice Bohnice - Interna
+2999,Nemocnice Bohnice - Centralni terapie
+3000,U Rumpalu
+3001,Prebslova
+3002,Prebslova
+3003,Sukovska
+3004,Sukovska
+3005,Nadrazi Zahradni Mesto
+3006,Nadrazi Zahradni Mesto
+3007,Kotorska
+3008,Kotorska
+3009,Obchodni centrum Chuchle
+3010,Lukasova
+3011,Lukasova
+3012,U Prdlavky
+3013,U Prdlavky
+3014,Park Rajska zahrada
+3015,Park Rajska zahrada
+3016,Milova
+3017,Milova
+3018,Sporkova
+3019,Nemocnice pod Petrinem
+3020,Nemocnice Vinohrady
+3021,Nemocnice Vinohrady
+3022,Petrske namesti
+3023,Petrske namesti
+3024,Hastalske namesti
+3025,U Stare skoly
+3026,Parizska
+3027,Staromestske namesti
+3028,Masna
+3029,Ohradni
+3030,Holoubkovska
+3031,Holoubkovska
+3032,Nemocnice Bulovka
+3033,Nemocnice Bulovka - gynekologie
+3034,Nemocnice Bulovka - onkologie
+3035,Raposovska
+3036,Raposovska
+3037,Slatinanska
+3038,Slatinanska
+3039,Lanska
+3040,Lanska
+3041,Novozamecka
+3042,Novozamecka
+3043,K Lesoparku
+3044,K Lesoparku
+3045,Ke Hrazi
+3046,Studenecka
+3047,Ke Hrazi
+3048,Susicka
+3049,Susicka
+3050,Pernerova
+3051,Pernerova
+3052,Selskych baterii
+3053,Selskych baterii
+3054,Sediveho
+3055,Sediveho
+3056,K Trninam
+3057,K Trninam
+3058,Sekericka
+3059,Privozni
+3060,Privozni
+3061,V Pristavu
+3062,V Pristavu
+3063,Pristav Holesovice
+3064,Pristav Holesovice
+3065,Osadni
+3066,Osadni
+3067,Rezacovo namesti
+3068,U Vody
+3069,U Vody
+3070,Norbertov
+3071,Norbertov
+3072,Namesti Pred Bateriemi
+3073,Namesti Pred Bateriemi
+3074,Talichova
+3075,Talichova
+3076,U Vojenske nemocnice
+3077,U Vojenske nemocnice
+3078,Poliklinika Petriny
+3079,Poliklinika Petriny
+3080,Livornska
+3081,Livornska
+3082,Ke Krizi
+3083,Ke Krizi
+3084,Novochuchelska
+3085,Novochuchelska
+3086,Mrkosova
+3087,Mrkosova
+3088,Na Hvezdarne
+3089,Na Hvezdarne
+3090,Novoborska
+3091,Navetrna
+3092,Sklenarka
+3093,Sklenarka
+3094,U Trezorky
+3095,U Trezorky
+3096,U Trezorky
+3097,Nadrazi Cakovice
+3098,Nadrazi Cakovice
+3099,Ve Smeckach
+3100,Matejska
+3101,Matejska
+3102,Sidliste Baba
+3103,Radnice Praha 6
+3104,Radnice Praha 6
+3105,Studentsky dum
+3106,Studentsky dum
+3107,Narodni technicka knihovna
+3108,Narodni technicka knihovna
+3109,Kolova
+3110,Vinicky
+3111,Pribramska
+3112,Dehtinska
+3113,Vojeticka
+3114,Zdicka
+3115,Nad Konvarkou
+3116,Kutvirtova
+3117,Kutvirtova
+3118,Nad Laurovou
+3119,Nad Laurovou
+3120,Storkanova
+3121,Storkanova
+3122,Smichovsky hrbitov
+3123,Smichovsky hrbitov
+3124,Mrazovka
+3125,Mrazovka
+3126,Cerny vrch
+3127,Cerny vrch
+3128,U Blazenky
+3129,Kvetinkova
+3130,Nove Komorany
+3131,Nove Komorany
+3132,Jizbicka
+3133,Nad Divcimi hrady
+3134,Dvorakova
+3135,Dvorakova
+3136,Kardausova
+3137,Novy Zlicin
+3138,Na Fabiance
+3139,Na Fabiance
+3140,K Juliane
+3141,K Juliane
+3142,Dopravni hriste Vypich
+3143,Dopravni hriste Vypich
+3144,Valdstejnske namesti
+3145,Poliklinika Lipa
+3146,Poliklinika Lipa
+3147,Za Mototechnou
+3148,Za Mototechnou
+3149,Ordovicka
+3150,Ordovicka
+3151,Kbelsky pivovar
+3152,Kbelsky pivovar
+3153,Polesovicka
+3154,Polesovicka
+3155,Pilovska
+3156,Pilovska
+3157,Blatov sever
+3158,Nepasicke namesti
+3159,U Radialy
+3160,U Radialy
+3161,Winklerova
+3162,Winklerova
+3163,Poliklinika Cumpelikova
+3164,Poliklinika Cumpelikova
+3165,Kobyliska strelnice
+3166,Kobyliska strelnice
+3167,Domov senioru Dablice
+3168,Domov senioru Dablice
+3169,Za Novakovou zahradou
+3170,Za Novakovou zahradou
+3171,Milicov
+3172,Vonkova
+3173,Vonkova
+3174,Vsestarska
+3175,Vsestarska
+3176,K Zelenci
+3177,Krnovicka
+3178,Bukovinska
+3179,Bukovinska
+3180,Wagnerova
+3181,Wagnerova
+3182,Podluzanska
+3183,Podluzanska
+3184,Obchodni centrum Zlicin
+3185,Obchodni centrum Zlicin
+3186,Nad Rybnikem
+3187,Hlavkova
+3188,Hlavkova
+3189,Hrdlorezska
+3190,Hrdlorezska
+3191,Na Lukach
+3192,Na Lukach
+3193,Mezitratova
+3194,Vinorska
+3195,Kazin
+3196,Dolni Cernosice
+3197,Ke Kazinu
+3198,Ke Kazinu
+3199,U Zlabku
+3200,Ke Sterkovne
+3201,Ke Sterkovne
+3202,Na Lhotkach
+3203,Na Lhotkach
+3204,Dolnocernosicka
+3205,Dolnocernosicka
+3206,Cholupicke namesti
+3207,Cholupicke namesti
+3208,Sovakova
+3209,Sovakova
+3210,Malesicky park
+3211,Malesicky park
+3212,U Jahodnice
+3213,U Jahodnice
+3214,Dercsenyiho
+3215,Dercsenyiho
+3216,Na Svecence
+3217,Na Svecence
+3218,Chodovicka
+3219,Chodovicka
+3220,Pavlisovska
+3221,Pavlisovska
+3222,Parkoviste Trojsky most
+3223,Vinorsky zamek
+3224,Vinorsky zamek
+3225,U Uhrineveske obory
+3226,Becovska
+3227,Becovska
+3228,Dubecsky hrbitov
+3229,Dubecsky hrbitov
+3230,Perspektivni
+3231,Perspektivni
+3232,Logisticka zona Horni Pocernice
+3233,Breclavska
+3234,Breclavska

@@ -1,0 +1,7 @@
+out
+.vs
+CMakeSettings.json
+cmake-build*
+*.pdf
+data_og
+.idea
