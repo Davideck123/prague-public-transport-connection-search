@@ -1,7 +1,8 @@
-out
-.vs
-CMakeSettings.json
-cmake-build*
-*.pdf
-data_og
 .idea
+.vs
+.vscode
+out
+*build*/
+data_og
+*.pdf
+CMakeSettings.json

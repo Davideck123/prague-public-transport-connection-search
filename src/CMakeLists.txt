@@ -6,5 +6,5 @@ cmake_minimum_required(VERSION 3.8)
 FILE(COPY ../data/ DESTINATION "${CMAKE_CURRENT_BINARY_DIR}/data")
 
 
-add_executable(ConnectionSearch main.cpp DataTypes.hpp Raptor.cpp Timetable.cpp Route.cpp Raptor.hpp
+add_executable(JourneyPlanner main.cpp DataTypes.hpp Raptor.cpp Timetable.cpp Route.cpp Raptor.hpp
         Timetable.hpp InputReader.hpp InputReader.cpp )

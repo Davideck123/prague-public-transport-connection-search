@@ -1,13 +1,15 @@
-# Prague public transport connection search
+# Prague journey planner 🔍
 
-Contains all metro, tram and non-regional bus lines.
+## *Search engine for Prague public transport*
+
+Contains all metro🚇, tram🚊 and non-regional bus lines🚍.
 It doesn't take into account specific day, only time of the day.
 
 To use this search, clone this repo and build and run the only cmake target 
-available `ConnectionSearch`.
+available `JourneyPlanner`.
 I recommend using the release mode since loading all the data takes a little while.
 
-The usage is pretty straightforward - enter the name of the start stop, end stop and the departure time and 
+The usage is pretty straightforward - enter the name of the start stop🚏, end stop🚏 and the departure time🕑 and 
 you'll get the connection if it exists. If you enter just a part of the stop name, you might get
 a hint of the name you want.
 
